@@ -4,7 +4,7 @@ let bt = "";
 let et = "";
 let d = "";
 const musics = [];
-fs.readFileSync("./datas.json").toString().split("\n").forEach((l, i) => {
+fs.readFileSync("./musics.txt").toString().split("\n").forEach((l, i) => {
     if (i % 2 == 0) {
         const trx = /`(.*?)`/g;
         const drx = /\*(.*?)\*/g;
