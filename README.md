@@ -33,7 +33,7 @@ ED : Ride On Shooting Star - the pillows
 - 19:31 ~ 20:34 (カンチに食べられるナオト、ロボットを破壊するランチャー型ののカンチ、劇本番、伊達眼鏡) Little Busters - the pillows
 - 00:05 ~ 03:00 (野球、フリキリロゴ) Happy Bivouac - the pillows
 - 04:26 ~ 05:35 (バイクで登場するアマラオ) White Ash - the pillows
-- 06:50 ~ 08:48 (野球練習中、光が落ちてくるのを見るハルコとナオタ、モニターを見るアマラオとキツルバミ) Stalker - thw pillows
+- 06:50 ~ 08:48 (野球練習中、光が落ちてくるのを見るハルコとナオタ、モニターを見るアマラオとキツルバミ) Stalker - the pillows
 - 08:55 ~ 09:53 (カンチのデビュー戦だというのにつられ走り出すマミミ、異常に回る電気メーター) Carnival - the pillows
 - 10:24 ~ 11:29 (歩いてきたロボットカモンを殴るナオタ、止まる電気メーター) ? - ?
 - 11:30 ~ 14:10 (野球するハルコ、アマラオに尋問されるナオタ) Beautiful Morning With You - the pillows
